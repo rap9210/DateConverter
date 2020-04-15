@@ -1,0 +1,5 @@
+Full Date:
+Assign numerical value to variables representing each month.
+Prompt the input from the user.
+Print out the month based on the number given.
+Print the day and year.
